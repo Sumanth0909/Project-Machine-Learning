@@ -11,5 +11,10 @@ Finally, we end this Project by creating an Web-Based Interactive GUI where the 
 varying the ratio of (training data : testing data), varying the values of 'p','d','q' in the case of ARIMA model etc. The changes can be seen on-the-spot.
 Also, dashboards have been included in the 'prediction' section - making it even more interactive!
 
+To run the Web-Based Interactive GUI, open the "AQIFinal.py" file in an Python IDE (preferably VS Code)
+Run the "AQIFinal.py" code
+And in the terminal, type "streamlit run Your_File_Name.py" (in our case, it is "streamlit run Final.py") and run it.
+Please feel free to play around a bit :)
+
 
 HOPE YOU LIKED IT!!
