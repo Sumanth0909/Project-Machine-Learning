@@ -14,7 +14,7 @@ Also, dashboards have been included in the 'prediction' section - making it even
 To run the Web-Based Interactive GUI, open the "AQIFinal.py" file in an Python IDE (preferably VS Code)
 Run the "AQIFinal.py" code
 And in the terminal, type "streamlit run Your_File_Name.py" (in our case, it is "streamlit run Final.py") and run it.
+
+
 Please feel free to play around a bit :)
-
-
 HOPE YOU LIKED IT!!
