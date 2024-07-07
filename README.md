@@ -17,4 +17,5 @@ And in the terminal, type "streamlit run Your_File_Name.py" (in our case, it is 
 
 
 Please feel free to play around a bit :)
+
 HOPE YOU LIKED IT!!
